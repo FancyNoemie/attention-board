@@ -25,3 +25,6 @@ Merci à Chantale Cyr, Jacob Johnston, Peter Flemming, Elio Bidinost et Brad Tod
 
 ------
 # Le projet
+# Les composantes
+# Le microcontrolleur
+Notre Jardin de l'attention est contrôlé par notre composante avec toutes les petites pattes: le Arduino Nano. C'est cette petite composante qui recois l'information, fait les calculs et allume les lumières. Ensemble, on a programmé nos arduino avec une suite d'instruction que j'ai écrite, mais il est tout a fait possible de changer les réactions de notre Jardin de l'attention! Pour ça, tu peut changer la suite d'instructions que j'ai fait, ou en rédiger une nouvelle! 
