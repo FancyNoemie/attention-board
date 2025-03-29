@@ -1,6 +1,6 @@
 # Le tableau de l'attention et la technologie au ralenti
 
-Bienvenue dans la documentation du *Tableau de l'attention* ! Un **gros merci** pour votre participation au projet, je continue d'y travailler très fort! Vous trouverez ici toutes les informations qui expliquent comment l'appareil fonctionne, mais aussi des méthodes pour régler les paramètres, comment aller plus loin et vous approprier cet outil. Il me ferait vraiment plaisir d'avoir de vos nouvelles dans le volet **discussion** du GitHub, que ce soit pour partager des commentaires, des idées ou des problèmes. 
+Bienvenue dans la documentation du *Jardin de l'attention* ! Un **gros merci** pour votre participation au projet, je continue d'y travailler très fort! Vous trouverez ici toutes les informations qui expliquent comment l'appareil fonctionne, mais aussi des méthodes pour régler les paramètres, comment aller plus loin et vous approprier cet outil. Il me ferait vraiment plaisir d'avoir de vos nouvelles dans le volet **discussion** du GitHub, que ce soit pour partager des commentaires, des idées ou des problèmes. 
 
 S'il manque quelque chose, faitez moi signe! la documentation est en constante construction!
 
