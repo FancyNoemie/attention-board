@@ -6,6 +6,8 @@ S'il manque quelque chose, faitez moi signe! la documentation est en constante c
 
 Merci à Chantale Cyr, Jacob Johnston, Peter Flemming, Elio Bidinost et Brad Todd, ce fut un plaisir de collaborer avec des gens aussi exceptionnels, et sans votre soutien le projet n'aurait jamais vu le jour!
 
+![20241101_142848 1](https://github.com/user-attachments/assets/78811052-2516-487a-8aab-27f91342e189)
+
 --------------
 ## Table des matières
 ### - Programmer le microcontrolleur 🧠
