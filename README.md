@@ -7,28 +7,7 @@ S'il manque quelque chose, faitez moi signe! la documentation est en constante c
 Merci à Chantale Cyr, Jacob Johnston, Peter Flemming, Elio Bidinost et Brad Todd, ce fut un plaisir de collaborer avec des gens aussi exceptionnels, et sans votre soutien le projet n'aurait jamais vu le jour!
 
 ![20241101_142848 1](https://github.com/user-attachments/assets/78811052-2516-487a-8aab-27f91342e189)
-
---------------
-## Table des matières
-### - Programmer le microcontrolleur 🧠
->Quel est le but de l'atelier, les idées qu'on y a partagé?
->Qu'est ce que je fait avec cet objet là?
->Un peu de technicalitées pour savoir exactement à quoi j'ai affaire.
-### - Étape 1 - Arduino IDE ⚙️
-> Qu'est ce que c'est un Arduino?
-> Comment ça fonctionne? Comment y accéder, lire et comprendre le code?
-### - Étape 2 - Le pilote (*driver*) CH340 🔧
-> 
-### - Étape 3 - Connection 🔌
-> Comment ça fonctionne? Comment y accéder, lire et comprendre le code? Est ce que je peux le changer?
-### - Étape 4 - Télécharger un code 🗝️
-> Par où commencer pour modifier le code? Changer les délais, les sons, les réactions?
-> Quelles sont les possibilitées?
-> Quelles sont les ressources vers lesquelles me tourner?
-### - Bonus - Rétablir le code original ✨
-> Par où commencer pour modifier le code? Changer les délais, les sons, les réactions?
-> Quelles sont les possibilitées?
-
+***Classe de Mme Judith, novembre 2024***
 ------
 
 # Programmer le microcontrolleur 🧠
@@ -38,6 +17,24 @@ Notre Jardin de l'attention est contrôlé par notre composante bleue avec toute
 > - Ton jardin de l'attention
 > - Un fil d'alimentation USB
 > - Un ordinateur
+
+--------------
+## Table des matières
+
+### Étape 1 - Arduino IDE ⚙️
+> Qu'est ce que c'est un Arduino?
+> Comment ça fonctionne? Comment y accéder, lire et comprendre le code?
+### Étape 2 - Le pilote (*driver*) CH340 🔧
+> Préparer notre ordinateur à notre microcontrolleur.
+### Étape 3 - Connection 🔌
+> Tout brancher pour établir une première communication entre mon microcontrolleur et le logiciel.
+### Étape 4 - Télécharger un code 🗝️
+> Par où commencer pour modifier le code? Changer les délais, les sons, les réactions?
+> Quelles sont les possibilitées?
+> Quelles sont les ressources vers lesquelles me tourner?
+### Bonus - Rétablir le code original ✨
+> Comment installer ou réinstaller le code original de notre jardin de l'attention.
+> Changer les délais de nos bouttons
 
 -----
 
@@ -98,4 +95,10 @@ void loop() {
 }
 ```
 
-# Bonus - Rétablir le code original ✨
+# Rétablir le code original ✨
+![20250204_104605](https://github.com/user-attachments/assets/2cad1b51-6a07-47e5-9c7b-58ac1d23c5e2 "Version 1" {width=200px height=200px})
+
+
+# Bonus - Musique
+## 3-3-4-5-5-4-3-2-1-1-2-3-3-2-2
+## 3-3-4-5-5-4-3-2-1-1-2-3-2-1-1
