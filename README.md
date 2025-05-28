@@ -7,32 +7,37 @@ S'il manque quelque chose, faitez moi signe! la documentation est en constante c
 Merci à Chantale Cyr, Jacob Johnston, Peter Flemming, Elio Bidinost et Brad Todd, ce fut un plaisir de collaborer avec des gens aussi exceptionnels, et sans votre soutien le projet n'aurait jamais vu le jour!
 
 ![20241101_142848 1](https://github.com/user-attachments/assets/78811052-2516-487a-8aab-27f91342e189)
+
 ***Classe de Mme Judith, novembre 2024***
+
 ------
 
 # Programmer le microcontrolleur 🧠
 Notre Jardin de l'attention est contrôlé par notre composante bleue avec toutes les petites pattes: le Arduino Nano. C'est cette petite composante qui recois l'information, fait les calculs et allume les lumières. Ensemble, on a programmé nos arduino avec une suite d'instruction que j'ai écrite, mais il est tout a fait possible de changer les réactions de notre Jardin de l'attention! Pour ça, tu peut changer la suite d'instructions que j'ai fait, ou en rédiger une nouvelle. Même si tu fait des expérimentations, **tu pourras toujours revenir au code original**. Pour chaque version du jardin de l'attention, j'ai partagé un code. Voyons comment l'installer! n'hésite pas a demander de l'aide si tu as de la difficulté.
 
-### Tu aura besoin de : 
+**Tu aura besoin de :** 
 > - Ton jardin de l'attention
 > - Un fil d'alimentation USB
 > - Un ordinateur
 
---------------
 ## Table des matières
 
-### Étape 1 - Arduino IDE ⚙️
+**Étape 1 - Arduino IDE ⚙️**</br>
 > Qu'est ce que c'est un Arduino?
 > Comment ça fonctionne? Comment y accéder, lire et comprendre le code?
-### Étape 2 - Le pilote (*driver*) CH340 🔧
+
+**Étape 2 - Le pilote (*driver*) CH340 🔧**</br>
 > Préparer notre ordinateur à notre microcontrolleur.
-### Étape 3 - Connection 🔌
+
+**Étape 3 - Connection 🔌**</br>
 > Tout brancher pour établir une première communication entre mon microcontrolleur et le logiciel.
-### Étape 4 - Télécharger un code 🗝️
+
+**Étape 4 - Télécharger un code 🗝️**</br>
 > Par où commencer pour modifier le code? Changer les délais, les sons, les réactions?
 > Quelles sont les possibilitées?
 > Quelles sont les ressources vers lesquelles me tourner?
-### Bonus - Rétablir le code original ✨
+
+**Bonus - Rétablir le code original ✨**</br>
 > Comment installer ou réinstaller le code original de notre jardin de l'attention.
 > Changer les délais de nos bouttons
 
@@ -97,7 +102,7 @@ void loop() {
 
 # Rétablir le code original ✨
   
-#### Déterminer la version
+**Déterminer la version**
 Tu ne remarquera pas de grosse différence entre les deux versions du code, mais tu verra que les chemins, les circuits imprimés sont différents d'une version du circuit imprimé à l'autre. J'en ai profité pour régler de petits problèmes. Les composantes sont interchangeables et presque identiques d'une version à l'autre, mais la plaque verte, mon circuit imprimé, sera différent.
 
 | Version 1      | Version 2      |
@@ -108,5 +113,5 @@ Tu ne remarquera pas de grosse différence entre les deux versions du code, mais
 
 
 # Bonus - Musique
-## 3-3-4-5-5-4-3-2-1-1-2-3-3-2-2
-## 3-3-4-5-5-4-3-2-1-1-2-3-2-1-1
+**3-3-4-5-5-4-3-2-1-1-2-3-3-2-2**</br>
+**3-3-4-5-5-4-3-2-1-1-2-3-2-1-1**
