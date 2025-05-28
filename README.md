@@ -96,7 +96,15 @@ void loop() {
 ```
 
 # Rétablir le code original ✨
-![20250204_104605](https://github.com/user-attachments/assets/2cad1b51-6a07-47e5-9c7b-58ac1d23c5e2 "Version 1" {width=200px height=200px})
+  
+#### Déterminer la version
+Tu ne remarquera pas de grosse différence entre les deux versions du code, mais tu verra que les chemins, les circuits imprimés sont différents d'une version du circuit imprimé à l'autre. J'en ai profité pour régler de petits problèmes. Les composantes sont interchangeables et presque identiques d'une version à l'autre, mais la plaque verte, mon circuit imprimé, sera différent.
+
+| Version 1      | Version 2      |
+| :-------------: | :-------------: |
+| <a href="url"><img title="Version 1" alt="Jardin de l'attention version 1: lumières bleues résistances lignées." src="https://github.com/user-attachments/assets/2cad1b51-6a07-47e5-9c7b-58ac1d23c5e2" ></a> | <a href="url"><img title="Version 1" alt="Jardin de l'attention version 1: lumières bleues résistances lignées." src="https://github.com/user-attachments/assets/2cad1b51-6a07-47e5-9c7b-58ac1d23c5e2" ></a> |
+| Voici la toute première version du jardin de l'attention, avec des lumières rondes, bleues et des résistances lignées. | Voici la deuxième version du jardin de l'attention, avec ses toutes petites lumières vertes.|
+| <a href="url">Télécharge ce fichier</a> | <a href="url">Télécharge ce fichier</a> |
 
 
 # Bonus - Musique
