@@ -1,16 +1,8 @@
 /*******************************************************************************
 
-  ,---.    ,--.    ,--.                   ,--.  ,--.                   ,-----.                           ,--. 
- /  O  \ ,-'  '-.,-'  '-. ,---. ,--,--, ,-'  '-.`--' ,---. ,--,--,     |  |) /_  ,---.  ,--,--.,--.--. ,-|  | 
-|  .-.  |'-.  .-''-.  .-'| .-. :|      \'-.  .-',--.| .-. ||      \    |  .-.  \| .-. |' ,-.  ||  .--'' .-. | 
-|  | |  |  |  |    |  |  \   --.|  ||  |  |  |  |  |' '-' '|  ||  |    |  '--' /' '-' '\ '-'  ||  |   \ `-' | 
-`--' `--'  `--'    `--'   `----'`--''--'  `--'  `--' `---' `--''--'    `------'  `---'  `--`--'`--'    `---'  
-
 Le Jardin de l'attention
 Noémie Carrier
 Hiver 2025
-
-Here is the code needed for the device we developped together for CASS's KiCAD workshop at Concordia
 
 Voici le code dévoloppé pour votre tableau. Pour accéder aux instructions, visitez https://github.com/FancyNoemie/attention-board
 
