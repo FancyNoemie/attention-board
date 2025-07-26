@@ -13,7 +13,7 @@ Merci à Chantale Cyr, Jacob Johnston, Peter Flemming, Elio Bidinost et Brad Tod
 ------
 
 # Programmer le microcontrolleur 🧠
-Notre Jardin de l'attention est contrôlé par notre composante bleue avec toutes les petites pattes: le Arduino Nano. C'est cette petite composante qui recois l'information, fait les calculs et allume les lumières. Ensemble, on a programmé nos arduino avec une suite d'instruction que j'ai écrite, mais il est tout a fait possible de changer les réactions de notre Jardin de l'attention! Pour ça, tu peut changer la suite d'instructions que j'ai fait, ou en rédiger une nouvelle. Même si tu fait des expérimentations, **tu pourras toujours revenir au code original**. Pour chaque version du jardin de l'attention, j'ai partagé un code. Voyons comment l'installer! n'hésite pas a demander de l'aide si tu as de la difficulté.
+Notre Jardin de l'attention est contrôlé par notre composante bleue avec toutes les petites pattes: le Arduino Nano. C'est cette composante qui reçois l'information, fait les calculs et allume les lumières. Ensemble, on a programmé nos arduino avec une suite d'instruction que j'ai écrite, mais il est tout a fait possible de changer les réactions de notre Jardin de l'attention! Pour ça, tu peut changer la suite d'instructions que j'ai fait, ou en rédiger une nouvelle. Même si tu fait des expérimentations, **tu pourras toujours revenir au code original**. Pour chaque version du jardin de l'attention, j'ai partagé un code. Voyons comment l'installer! n'hésite pas a demander de l'aide si tu as de la difficulté.
 
 **Tu aura besoin de :** 
 > - Ton jardin de l'attention
@@ -61,15 +61,14 @@ Il est maintenant temps de connecter le microcontrolleur à notre ordinateur! Co
 > Test la connection avec aucune lignes de code (pour vérifier si tout va bien)
 
 ### Identifier un problème
-Si tu n'a pas réussi à établir la connection, voici une liste de pistes de solutions à tester.
-> - L'arduino a une lumière allumée qui nous montre que c'est bien connecté à notre ordinateur.
-> - Le port usb est bien le bon
-> - changer le bootloader
-> - vérifier avec un fil d'alimentation différent
-> - code non compilé
+Si tu n'a pas réussi à établir la connection, voici une liste de pistes de solutions pour aider à identifier un problème. Commence par vérifier que tout est beau quand tu appuie sur le bouton ✔️ pour compiler ton code dans arduino. Si tu vois déjà une erreur, le problème est dans le code.
+> - L'arduino doit avoir une lumière allumée qui nous montre qu'il est bien connecté à une souce d'énergie (notre ordinateur).
+> - Le port usb est bien le bon. Il peut y avoir beaucoup d'options de ports disponibles via le logiciel...
+> - Changer le bootloader
+> - Vérifier avec un fil d'alimentation différent. Certains fils ne sont fait que pour partager de l'énergie, pas des données. 
 
 # Étape 4 - Télécharger un code 🗝️
-Si tout va bien, tu devrait être en mesure 
+Si tout va bien, tu devrait être en mesure d'effacer le contenu de ton fichier arduino et d'y coller un exemple. Tester une composante à la fois est toujours une bonne idée!
 
 > Voici un exemple simple, qui fait tamiser la lumière connectée à la *pin* 9 de notre arduino. Dans notre cas, c'est la lumière au centre de notre jardin de l'attention.
 ```
@@ -103,7 +102,7 @@ void loop() {
 # Rétablir le code original ✨
   
 **Déterminer la version**
-Tu ne remarquera pas de grosse différence entre les deux versions du code, mais tu verra que les chemins, les circuits imprimés sont différents d'une version du circuit imprimé à l'autre. J'en ai profité pour régler de petits problèmes. Les composantes sont interchangeables et presque identiques d'une version à l'autre, mais la plaque verte, mon circuit imprimé, sera différent.
+Tu ne remarquera pas de grosse différence entre les deux versions du code, mais tu verra que les chemins, les circuits imprimés sont différents d'une version du circuit imprimé à l'autre. J'en ai profité pour régler de petits problèmes. Les composantes sont presque identiques d'une version à l'autre, mais la plaque verte, mon circuit imprimé, sera différent.
 
 | Version 1      | Version 2      |
 | :-------------: | :-------------: |
