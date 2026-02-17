@@ -1,10 +1,11 @@
 # Le Jardin de l'attention et la technologie au ralenti 🌿🌱
-
+> J'ai FINALEMENT ajouté les bons fichiers arduino! (février 2026)
+------
 Bienvenue dans la documentation du *Jardin de l'attention* ! Un **gros merci** pour votre participation au projet, je continue d'y travailler très fort! Vous trouverez ici toutes les informations qui expliquent comment l'appareil fonctionne, mais aussi des méthodes pour régler les paramètres, comment aller plus loin et vous approprier cet outil. Il me ferait vraiment plaisir d'avoir de vos nouvelles dans le volet **discussion** du GitHub, que ce soit pour partager des commentaires, des idées ou des problèmes. 
 
 S'il manque quelque chose, faitez moi signe! la documentation est en constante construction!
 
-Merci à Chantale Cyr, Jacob Johnston, Peter Flemming, Elio Bidinost et Brad Todd, ce fut un plaisir de collaborer avec des gens aussi exceptionnels, et sans votre soutien le projet n'aurait jamais vu le jour!
+> Merci à Chantale Cyr, Jacob Johnston, Peter Flemming, Elio Bidinost et Brad Todd, ce fut un plaisir de collaborer avec des gens aussi exceptionnels, et sans votre soutien le projet n'aurait jamais vu le jour!
 
 ![20241101_142848 1](https://github.com/user-attachments/assets/78811052-2516-487a-8aab-27f91342e189)
 
@@ -110,11 +111,13 @@ Tu ne remarquera pas de grosse différence entre les deux versions du code, mais
 | :-------------: | :-------------: |
 | <a href="url"><img title="Version 1" alt="Jardin de l'attention version 1: lumières bleues résistances lignées." src="https://github.com/user-attachments/assets/2cad1b51-6a07-47e5-9c7b-58ac1d23c5e2" ></a> | <a href="url"> <img title="Version 2" alt="Jardin de l'attention version 2: lumières et résistances SDM." width="1860" height="1860" alt="20250531_090904" src="https://github.com/user-attachments/assets/267f795a-b0e8-49fc-b2bd-af13da3ab814" /> |
 | Voici la toute première version du jardin de l'attention, avec des lumières rondes, bleues et des résistances lignées. | Voici la deuxième version du jardin de l'attention, avec ses toutes petites lumières vertes.|
-| <a href="url">Télécharge ce fichier</a> | <a href="url">Télécharge ce fichier</a> |
+| Télécharge ce fichier --> [AttentionBoard1.0.zip](https://github.com/user-attachments/files/25366827/AttentionBoard1.0.zip) | Télécharge ce fichier --> [AttentionBoard2.0_WorkshopCASS.zip](https://github.com/user-attachments/files/25366834/AttentionBoard2.0_WorkshopCASS.zip) |
+
+
 
 
 
 # Bonus - Musique
-Essaie cette suite de notes sur ton appareil à la maison!
+Essaie cette suite de notes sur ton appareil à la maison!</br>
 **3-3-4-5-5-4-3-2-1-1-2-3-3-2-2**</br>
 **3-3-4-5-5-4-3-2-1-1-2-3-2-1-1**
