@@ -14,6 +14,7 @@ Merci à Chantale Cyr, Jacob Johnston, Peter Flemming, Elio Bidinost et Brad Tod
 
 # Programmer le microcontrolleur 🧠
 Notre Jardin de l'attention est contrôlé par notre composante bleue avec toutes les petites pattes: le Arduino Nano. C'est cette composante qui reçois l'information, fait les calculs et allume les lumières. Ensemble, on a programmé nos arduino avec une suite d'instruction que j'ai écrite, mais il est tout a fait possible de changer les réactions de notre Jardin de l'attention! Pour ça, tu peut changer la suite d'instructions que j'ai fait, ou en rédiger une nouvelle. Même si tu fait des expérimentations, **tu pourras toujours revenir au code original**. Pour chaque version du jardin de l'attention, j'ai partagé un code. Voyons comment l'installer! n'hésite pas a demander de l'aide si tu as de la difficulté.
+>  Je ne suis pas la seule à avoir écrit un tutoriel pour faire fonctionner un Arduino Nano. Tu peux toujours aller voir des ressources externes, comme le site officiel d'Arduino ou Youtube si tu a de la difficulté.
 
 **Tu aura besoin de :** 
 > - Ton jardin de l'attention
@@ -52,7 +53,7 @@ Une fois installé, tu pourra établir une communication avec ton microcontroleu
 Notre microcontroleur est un clone, une version moins cher du arduino nano classique. Pour qu'il fonctionne, on va devoir installer le pilote (*driver*) approprié. Tu auras à faire cette étape une seule fois pour ton ordinateur.
 Pour être plus exacte: Le pilote (*driver*) **CH340** est un composant logiciel qui permet à votre ordinateur de communiquer avec des périphériques à l'aide de la puce USB-série CH340, que l'on trouve couramment dans diverses cartes compatibles Arduino. Tu peut trouver le lien du fabricant ici... mais je te met aussi le fichier ci-dessous. https://www.wch.cn/downloads/CH341SER_ZIP.html 
 > https://www.wch.cn/download/file?id=5
-> - suivre les instructions d'installation.
+> - Suivre les instructions d'installation.
 
 # Étape 3 - Connection 🔌
 Il est maintenant temps de connecter le microcontrolleur à notre ordinateur! Commence par le brancher à un des port USB de ton ordinateur, puis nous auront à établir la connection sur notre logiciel de code.
@@ -103,14 +104,17 @@ void loop() {
   
 **Déterminer la version**
 Tu ne remarquera pas de grosse différence entre les deux versions du code, mais tu verra que les chemins, les circuits imprimés sont différents d'une version du circuit imprimé à l'autre. J'en ai profité pour régler de petits problèmes. Les composantes sont presque identiques d'une version à l'autre, mais la plaque verte, mon circuit imprimé, sera différent.
+> Tu n'est pas certain quelle version? Tu peux essayer les deux, et prendre celui qui allume les bonnes lumières.
 
 | Version 1      | Version 2      |
 | :-------------: | :-------------: |
-| <a href="url"><img title="Version 1" alt="Jardin de l'attention version 1: lumières bleues résistances lignées." src="https://github.com/user-attachments/assets/2cad1b51-6a07-47e5-9c7b-58ac1d23c5e2" ></a> | <a href="url"><img title="Version 1" alt="Jardin de l'attention version 1: lumières bleues résistances lignées." src="https://github.com/user-attachments/assets/2cad1b51-6a07-47e5-9c7b-58ac1d23c5e2" ></a> |
+| <a href="url"><img title="Version 1" alt="Jardin de l'attention version 1: lumières bleues résistances lignées." src="https://github.com/user-attachments/assets/2cad1b51-6a07-47e5-9c7b-58ac1d23c5e2" ></a> | <a href="url"> <img title="Version 2" alt="Jardin de l'attention version 2: lumières et résistances SDM." width="1860" height="1860" alt="20250531_090904" src="https://github.com/user-attachments/assets/267f795a-b0e8-49fc-b2bd-af13da3ab814" /> |
 | Voici la toute première version du jardin de l'attention, avec des lumières rondes, bleues et des résistances lignées. | Voici la deuxième version du jardin de l'attention, avec ses toutes petites lumières vertes.|
 | <a href="url">Télécharge ce fichier</a> | <a href="url">Télécharge ce fichier</a> |
 
 
+
 # Bonus - Musique
+Essaie cette suite de notes sur ton appareil à la maison!
 **3-3-4-5-5-4-3-2-1-1-2-3-3-2-2**</br>
 **3-3-4-5-5-4-3-2-1-1-2-3-2-1-1**
